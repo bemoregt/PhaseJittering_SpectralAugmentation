@@ -2,6 +2,8 @@
 
 A Python application for applying phase jittering as a spectral augmentation technique for image processing.
 
+![Phase Jittering Example](img1.daumcdn-5.png)
+
 ## Overview
 
 This application uses Fourier transform to manipulate the phase component of images, creating unique augmentations by randomly perturbing the phase spectrum. Phase jittering is a spectral-domain augmentation technique that preserves the amplitude spectrum while modifying the phase information.
